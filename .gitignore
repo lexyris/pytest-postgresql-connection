@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+.env
+.idea/
+*.iml
+pytest_cache/
+.pytest_cache/
+/workspace.xml
+/httpRequests/
